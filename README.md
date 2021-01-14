@@ -24,6 +24,7 @@
 
 ## Refrences
 
+* [Prof. Biplav Srivastava's Github Repo](https://github.com/biplav-s)
 * [MTCNN library](https://pypi.org/project/fdet/)
 * [Xception](https://www.tensorflow.org/api_docs/python/tf/keras/applications/Xception)
 * [MTCNN Paper](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
